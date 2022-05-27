@@ -1,0 +1,43 @@
+h1{
+    color:red;
+}
+h2{
+    color:red;
+    font-style: italic;
+}
+
+ol{
+    color:rgb(153, 17, 17);
+}
+
+.point3_a {
+    text-decoration:line-through;
+    font-weight: bold;
+}
+
+.point3_b{
+    background-color:yellow;
+    font-weight:900;
+}
+.point4{
+    text-decoration:underline;
+    font-style: italic;
+}
+ul{
+    color:rgb(153, 17, 17);
+    letter-spacing: 4px;
+    font-family:serif;
+}
+
+.point4_ul{
+    background-color:yellow;
+    font-weight:900;
+}
+
+
+p{
+    color:rgb(185, 89, 89);
+}
+a{
+    color:red;
+    font-style: italic;
